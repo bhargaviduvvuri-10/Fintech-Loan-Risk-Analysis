@@ -77,3 +77,20 @@ This project explores the relationship between applicant characteristics and loa
 4. Use document submission behavior as a **reliability indicator**.
 5. Incorporate **product categories and phone purchase behavior** as behavioral predictors.
 6. **Segment applicants** based on experience, family size, and income for tiered risk scoring.
+---   
+## 🛠️ Tools & Technologies Used
+Power BI – For building interactive dashboards and data visualization.
+
+Power Query – For data cleaning, transformation, and merging.
+
+DAX (Data Analysis Expressions) – For calculated measures and custom columns.
+
+CSV files – Used as the primary data source.
+
+Power BI Relationships – To establish connections between multiple data tables.
+
+---
+## 🙋‍♂️ Author
+Lakshmi Bhargavi Duvvuri
+
+
